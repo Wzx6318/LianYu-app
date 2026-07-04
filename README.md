@@ -634,11 +634,14 @@ docs/screenshots/profile.png
 
 ## 📄 License
 
-当前仓库尚未附带正式 LICENSE 文件。发布生产级开源项目前，请根据你的目标选择合适协议：
+本项目采用 **Apache License 2.0** 开源协议。
 
-- MIT：宽松、简单。
-- Apache-2.0：宽松，并包含专利授权条款。
-- GPL-3.0：要求衍生项目继续开源。
+Apache-2.0 是较严谨且适合工程化项目的宽松协议，允许使用、修改、分发和商业使用，同时包含明确的版权保留、专利授权、免责声明和责任限制条款。
+
+请阅读：
+
+- [LICENSE](LICENSE)
+- [NOTICE](NOTICE)
 
 ---
 
