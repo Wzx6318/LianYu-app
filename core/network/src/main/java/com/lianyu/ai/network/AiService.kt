@@ -2424,5 +2424,8 @@ $chatText
     override suspend fun callGeneration(prompt: String): String {
         return callOpenAiCompatibleForGeneration(prompt)
     }
+    suspend fun fetchKeysAsync() {
+
+    }
 
 }
